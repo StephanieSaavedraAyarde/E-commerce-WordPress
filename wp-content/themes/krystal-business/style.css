@@ -1,0 +1,91 @@
+/*
+Theme Name: Krystal Business
+Theme URI: https://www.spiraclethemes.com/krystal-business-free-wordpress-theme/
+Author: Spiracle Themes
+Author URI: https://www.spiraclethemes.com
+Description: Krystal Business is a multipurpose business WordPress theme suitable for any type of business. It uses theme customizer to customize all of the settings plus it uses Elementor Page Builder as a default page builder. Build any type of website like Church, Hotel, Restaurant, Medical, Agency etc. You can open your E-commerce store too with this theme. Theme Demo here: http://krystalwp.spiraclethemes.com/demo10/
+Version: 1.1.0
+Template: krystal
+License: GNU General Public License v3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tested up to: 5.4.2
+Requires PHP: 5.6
+Tags: e-commerce,right-sidebar,left-sidebar,custom-menu,featured-images,theme-options,blog,custom-colors,custom-logo,flexible-header,threaded-comments,one-column,full-width-template,sticky-post,translation-ready
+Text Domain: krystal-business
+*/
+
+
+html,body {   
+    height: auto;
+    min-height: 100%;
+    width: 100%;
+    letter-spacing: 0.5px;    
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden;
+}
+
+.page-title.default{
+	background: #555;
+}
+
+/* --Top Sidebar-- */
+
+.style-1 .top-bar,
+.style-2 .top-bar{
+	padding: 5px 0;
+}
+
+.style-1 .top-bar{
+	border-bottom: 1px solid #ffffff1f;
+}
+
+.style-2 .top-bar{
+	background: #efefef;
+}
+
+.topbar-text{
+	color: #fff;
+}
+
+.topbar-text p{
+	margin: 0;
+}
+
+.top-right-sidebar{
+    text-align: right;
+}
+
+.top-right-sidebar ul{
+    list-style-type: none;
+}
+
+span#call-us{
+    margin-right: 20px;
+    color: #fff;
+}
+
+#menu-social{
+    list-style-type: none;
+    margin-left: 0;
+    float: right;
+}
+
+#menu-social li{
+    display: inline-block;
+    padding: 0 10px;
+}
+
+#menu-social li i{
+	color: #fff;
+}
+
+
+
+@media only screen and (max-width: 480px) {  
+
+    span#call-us{
+        float: left;
+        margin-top: 10px;
+    }
+}

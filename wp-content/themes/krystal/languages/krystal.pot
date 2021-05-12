@@ -1,0 +1,1277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-21 19:55+0530\n"
+"PO-Revision-Date: 2020-12-21 19:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:31 404.php:48
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:32 404.php:49
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"on right or a search?"
+msgstr ""
+
+#: comments.php:36
+msgid "says:"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "%s <span class=\"says\">"
+msgstr ""
+
+#: comments.php:44
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:48
+msgid "Edit"
+msgstr ""
+
+#: comments.php:52
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:88 comments.php:112
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:91 comments.php:115
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:92 comments.php:116
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:129
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:133
+msgid "Leave a Reply:"
+msgstr ""
+
+#: comments.php:136
+msgid "Name *"
+msgstr ""
+
+#: comments.php:138
+msgid "Email *"
+msgstr ""
+
+#: comments.php:140
+msgid "Website"
+msgstr ""
+
+#: comments.php:142
+msgid "Comment"
+msgstr ""
+
+#: functions.php:47
+msgid ""
+"You need to update your PHP version to a minimum of 5.6 to run Krystal "
+"WordPress Theme."
+msgstr ""
+
+#: functions.php:48
+msgid "Actual version is:"
+msgstr ""
+
+#: functions.php:48
+msgid "required is"
+msgstr ""
+
+#: functions.php:96
+msgid "Primary"
+msgstr ""
+
+#: functions.php:167
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:169 functions.php:183
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:181
+msgid "Footer Column"
+msgstr ""
+
+#: functions.php:305
+msgid "Search here"
+msgstr ""
+
+#: functions.php:307
+msgid "Search"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer/customizer.php:41
+msgid "Display Site Title and Tagline"
+msgstr ""
+
+#: inc/customizer/customizer.php:57
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:72
+msgid "Choose whether to disable the home background section or not"
+msgstr ""
+
+#: inc/customizer/customizer.php:95
+msgid "Disable Home Background Image Section:"
+msgstr ""
+
+#: inc/customizer/customizer.php:110
+msgid "Home Background Selection"
+msgstr ""
+
+#: inc/customizer/customizer.php:134
+msgid "Choose Home Background Color or Background Image:"
+msgstr ""
+
+#: inc/customizer/customizer.php:135
+msgid "This setting will change the Home background area."
+msgstr ""
+
+#: inc/customizer/customizer.php:137 inc/customizer/customizer.php:840
+#: inc/customizer/data-sanitization.php:107
+#: inc/customizer/data-sanitization.php:171
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:138 inc/customizer/customizer.php:841
+#: inc/customizer/data-sanitization.php:108
+#: inc/customizer/data-sanitization.php:172
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:159 inc/customizer/customizer.php:862
+msgid "Select Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:160
+msgid ""
+"This setting will add background color if Background Color was selected "
+"above."
+msgstr ""
+
+#: inc/customizer/customizer.php:184
+msgid "Home Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:185
+msgid ""
+"This setting will add background image if Background Image was selected "
+"above."
+msgstr ""
+
+#: inc/customizer/customizer.php:202
+msgid "Home Background Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:214
+msgid "ENTER YOUR HEADING HERE"
+msgstr ""
+
+#: inc/customizer/customizer.php:226
+msgid "Heading Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:227
+msgid "heading for the home section"
+msgstr ""
+
+#: inc/customizer/customizer.php:243
+msgid "ENTER YOUR SUBHEADING HERE"
+msgstr ""
+
+#: inc/customizer/customizer.php:255
+msgid "SubHeading Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:256
+msgid "Subheading for the home section"
+msgstr ""
+
+#: inc/customizer/customizer.php:285
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:286
+msgid "Button text for the home section"
+msgstr ""
+
+#: inc/customizer/customizer.php:308
+msgid "Button URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:309
+msgid ""
+"Button URL for the home section, you can paste youtube or vimeo video url "
+"also"
+msgstr ""
+
+#: inc/customizer/customizer.php:331
+msgid "Button 2 Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:332
+msgid "Button 2 text for the home section"
+msgstr ""
+
+#: inc/customizer/customizer.php:354
+msgid "Button 2 URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:355
+msgid ""
+"Button 2 URL for the home section, you can paste youtube or vimeo video url "
+"also"
+msgstr ""
+
+#: inc/customizer/customizer.php:376
+msgid "Select Text Position:"
+msgstr ""
+
+#: inc/customizer/customizer.php:379 inc/customizer/customizer.php:1595
+#: inc/customizer/data-sanitization.php:64
+#: inc/customizer/data-sanitization.php:214
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/customizer.php:380 inc/customizer/data-sanitization.php:215
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/customizer.php:381 inc/customizer/customizer.php:1594
+#: inc/customizer/data-sanitization.php:63
+#: inc/customizer/data-sanitization.php:216
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/customizer.php:398
+msgid "Parallax Scroll"
+msgstr ""
+
+#: inc/customizer/customizer.php:422 inc/customizer/customizer.php:929
+msgid "Enable Parallax Scroll:"
+msgstr ""
+
+#: inc/customizer/customizer.php:423
+msgid ""
+"Choose whether to show a parallax scroll feature for the Home Background "
+"image"
+msgstr ""
+
+#: inc/customizer/customizer.php:439
+msgid "Dark Overlay"
+msgstr ""
+
+#: inc/customizer/customizer.php:463 inc/customizer/customizer.php:970
+msgid "Enable Dark Overlay:"
+msgstr ""
+
+#: inc/customizer/customizer.php:464
+msgid "Choose whether to show a dark overlay over background image"
+msgstr ""
+
+#: inc/customizer/customizer.php:480
+msgid "Blog Homepage"
+msgstr ""
+
+#: inc/customizer/customizer.php:503
+msgid "Use this for Blog Homepage:"
+msgstr ""
+
+#: inc/customizer/customizer.php:504
+msgid "Check this if you are having a Blog as front page"
+msgstr ""
+
+#: inc/customizer/customizer.php:517 inc/customizer/customizer.php:532
+msgid "Header Styles"
+msgstr ""
+
+#: inc/customizer/customizer.php:554
+msgid "Choose Header Style:"
+msgstr ""
+
+#: inc/customizer/customizer.php:557 inc/customizer/data-sanitization.php:193
+msgid ""
+"Header Style1 - This will show full background image as header with menu "
+"over the image"
+msgstr ""
+
+#: inc/customizer/customizer.php:558 inc/customizer/data-sanitization.php:194
+msgid "Header Style2 - This header style will show background image below menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:572 inc/customizer/customizer.php:587
+msgid "Sticky Header Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:610
+msgid "Enable Sticky Header Feature:"
+msgstr ""
+
+#: inc/customizer/customizer.php:611
+msgid "Choose whether to enable a sticky header feature for the site"
+msgstr ""
+
+#: inc/customizer/customizer.php:626
+msgid "Sticky Header Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:650
+msgid "Logo for Sticky Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:651
+msgid "Upload logo for Sticky Header. Recommended height is 45px"
+msgstr ""
+
+#: inc/customizer/customizer.php:666 inc/customizer/customizer.php:681
+msgid "Scroll Down Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:703
+msgid "Enable Home scroll Feature:"
+msgstr ""
+
+#: inc/customizer/customizer.php:704
+msgid "Choose whether to enable a scroll down feature for the Home section"
+msgstr ""
+
+#: inc/customizer/customizer.php:719
+msgid "Scroll Down Button URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:744
+msgid "Scroll Button URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:745
+msgid "Scroll Button URL for the home section"
+msgstr ""
+
+#: inc/customizer/customizer.php:759
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:774
+msgid "Hide Page Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:797
+msgid "Hide Page Title Section:"
+msgstr ""
+
+#: inc/customizer/customizer.php:813
+msgid "Page Title Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:837
+msgid "Choose Page Title Background Color or Background Image:"
+msgstr ""
+
+#: inc/customizer/customizer.php:838
+msgid "This setting will change the background of the page title area."
+msgstr ""
+
+#: inc/customizer/customizer.php:863
+msgid ""
+"This setting will add background color to the page title area if Background "
+"Color was selected above."
+msgstr ""
+
+#: inc/customizer/customizer.php:887
+msgid "Select Background Image for Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:888
+msgid ""
+"This setting will add background image to the page title area if Background "
+"Image was selected above."
+msgstr ""
+
+#: inc/customizer/customizer.php:905
+msgid "Parallax Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:930
+msgid ""
+"Choose whether to show a parallax scroll feature for the Page Background "
+"image"
+msgstr ""
+
+#: inc/customizer/customizer.php:946
+msgid "Dark Overlay Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:971
+msgid "Choose whether to show a dark overlay over page header background"
+msgstr ""
+
+#: inc/customizer/customizer.php:987
+msgid "Page Title Spacing"
+msgstr ""
+
+#: inc/customizer/customizer.php:1011
+msgid "Page Title Height from Top(px)"
+msgstr ""
+
+#: inc/customizer/customizer.php:1012
+msgid "This will add top padding to the page title. Do not write px or em"
+msgstr ""
+
+#: inc/customizer/customizer.php:1033
+msgid "Page Title Height from Bottom(px)"
+msgstr ""
+
+#: inc/customizer/customizer.php:1034
+msgid "This will add bottom padding to the page title. Do not write px or em"
+msgstr ""
+
+#: inc/customizer/customizer.php:1048 inc/customizer/customizer.php:1063
+#: inc/theme-info.php:259
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1086
+msgid "Links Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1107
+msgid "Links Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1128
+msgid "Headings Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1149
+msgid "Heading Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1171
+msgid "Buttons Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1192
+msgid "Buttons Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1214
+msgid "Transparent Buttons Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1231
+msgid "Top Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:1253
+msgid "Top Menu Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1274
+msgid "Top Menu Button Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1295
+msgid "Top Menu Button Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1316
+msgid "Menu Dropdown Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1333
+msgid "Home Background Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1355
+msgid "Home Background Image Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1372
+msgid "Page Background Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1394
+msgid "Page Background Image Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1411 inc/theme-info.php:249
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer/customizer.php:1433
+msgid "Contact Form Label Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1454
+msgid "Contact Form Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1475
+msgid "Contact Form Elements Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1496
+msgid "Contact Form Border Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1517
+msgid "Contact Form Button Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1538
+msgid "Contact Form Button Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1553 inc/customizer/customizer.php:1568
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1591
+msgid "Select sidebar position:"
+msgstr ""
+
+#: inc/customizer/customizer.php:1609 inc/customizer/customizer.php:1624
+msgid "Form Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1647
+msgid "Select Form Elements Style:"
+msgstr ""
+
+#: inc/customizer/customizer.php:1650 inc/customizer/data-sanitization.php:149
+msgid "Default Style"
+msgstr ""
+
+#: inc/customizer/customizer.php:1651 inc/customizer/data-sanitization.php:150
+msgid "Solid Background Style"
+msgstr ""
+
+#: inc/customizer/customizer.php:1667
+msgid "Note: Go to Color Settings to change the the Form color. "
+msgstr ""
+
+#: inc/customizer/customizer.php:1686
+msgid "Full Width Form"
+msgstr ""
+
+#: inc/customizer/customizer.php:1709
+msgid "Enable Full Width Form"
+msgstr ""
+
+#: inc/customizer/customizer.php:1724 inc/customizer/customizer.php:1739
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1751
+msgid "Copyrights 2020 krystal. All Rights Reserved"
+msgstr ""
+
+#: inc/customizer/customizer.php:1762
+msgid "Footer copyright text"
+msgstr ""
+
+#: inc/customizer/customizer.php:1763
+msgid "Copyright text to be displayed in the footer. No HTML allowed"
+msgstr ""
+
+#: inc/customizer/customizer.php:1778
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer/customizer.php:1801
+msgid "Number of Footer Widgets:"
+msgstr ""
+
+#: inc/customizer/customizer.php:1804 inc/customizer/data-sanitization.php:84
+msgid "1"
+msgstr ""
+
+#: inc/customizer/customizer.php:1805 inc/customizer/data-sanitization.php:85
+msgid "2"
+msgstr ""
+
+#: inc/customizer/customizer.php:1806 inc/customizer/data-sanitization.php:86
+#: inc/customizer/data-sanitization.php:236
+msgid "3"
+msgstr ""
+
+#: inc/customizer/customizer.php:1807 inc/customizer/data-sanitization.php:87
+#: inc/customizer/data-sanitization.php:237
+msgid "4"
+msgstr ""
+
+#: inc/customizer/customizer.php:1823
+msgid "Footer Color Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1845
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1867
+msgid "Footer Content Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1888
+msgid "Footer Links Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1903
+msgid "Minify Styles & Scripts"
+msgstr ""
+
+#: inc/customizer/customizer.php:1918
+msgid "Minify CSS Styles Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1941
+msgid "Minify all CSS styles:"
+msgstr ""
+
+#: inc/customizer/customizer.php:1956
+msgid "Minify JS Scripts Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1979
+msgid "Minify all JS scripts:"
+msgstr ""
+
+#: inc/customizer/customizer.php:1993 inc/customizer/customizer.php:2008
+msgid "Preloader Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:2031
+msgid "Enable Preloader for site:"
+msgstr ""
+
+#: inc/customizer/customizer.php:2032
+msgid "Choose whether to show a preloader before a site opens"
+msgstr ""
+
+#: inc/customizer/customizer.php:2047
+msgid "Preloader Image Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:2071
+msgid "Preloader Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:2072
+msgid "Upload image for preloader"
+msgstr ""
+
+#: inc/customizer/data-sanitization.php:30
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer/data-sanitization.php:31
+msgid "No"
+msgstr ""
+
+#: inc/customizer/data-sanitization.php:128
+msgid "Style 1"
+msgstr ""
+
+#: inc/customizer/data-sanitization.php:129
+msgid "Style 2"
+msgstr ""
+
+#: inc/template-functions.php:14 inc/template-functions.php:105
+msgid "Skip to content"
+msgstr ""
+
+#: inc/template-functions.php:54 inc/template-functions.php:145
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/template-functions.php:218 inc/template-functions.php:229
+msgid " | Theme by "
+msgstr ""
+
+#: inc/template-functions.php:218 inc/template-functions.php:229
+msgid "Spiracle Themes"
+msgstr ""
+
+#: inc/template-functions.php:316
+msgid "SEARCH RESULTS"
+msgstr ""
+
+#: inc/template-functions.php:319
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:72 template-parts/content-page.php:35
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/theme-info.php:136
+msgid "About Krystal Theme"
+msgstr ""
+
+#: inc/theme-info.php:136
+msgid "krystal-theme-info"
+msgstr ""
+
+#: inc/theme-info.php:136
+msgid "krystal_theme_info"
+msgstr ""
+
+#: inc/theme-info.php:149
+msgid "Thank you for using Krystal free WordPress theme"
+msgstr ""
+
+#: inc/theme-info.php:151
+msgid ""
+"Krystal is a WordPress theme built for most popular drag and drop page "
+"builder Elementor. Krystal comes with 9+ unique demos and with 1 click demo "
+"import feature. Krystal is SEO friendly, mobile responsive, translation "
+"ready theme and is compatible with most of the popular plugins. We also "
+"provide support to the free version."
+msgstr ""
+
+#: inc/theme-info.php:163
+msgid "VIEW DEMO"
+msgstr ""
+
+#: inc/theme-info.php:173
+msgid "VIEW DOCUMENTATION"
+msgstr ""
+
+#: inc/theme-info.php:183
+msgid "VIDEO TUTORIALS"
+msgstr ""
+
+#: inc/theme-info.php:193
+msgid "ASK FOR SUPPORT"
+msgstr ""
+
+#: inc/theme-info.php:204
+msgid "RATE OUR THEME"
+msgstr ""
+
+#: inc/theme-info.php:214
+msgid "VIEW CHANGELOGS"
+msgstr ""
+
+#: inc/theme-info.php:222
+msgid "FREE VS PRO"
+msgstr ""
+
+#: inc/theme-info.php:227
+msgid "Feature"
+msgstr ""
+
+#: inc/theme-info.php:228
+msgid "Krystal"
+msgstr ""
+
+#: inc/theme-info.php:229
+msgid "PRO Addon Plugin"
+msgstr ""
+
+#: inc/theme-info.php:234
+msgid "Parallax Background Image"
+msgstr ""
+
+#: inc/theme-info.php:239
+msgid "Favicon, Logo, Title and Tagline Customization"
+msgstr ""
+
+#: inc/theme-info.php:244
+msgid "Customizer Theme Options"
+msgstr ""
+
+#: inc/theme-info.php:254
+msgid "Sidebar Options (Full, Left and Right)"
+msgstr ""
+
+#: inc/theme-info.php:264
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: inc/theme-info.php:269
+msgid "Sticky Header Option"
+msgstr ""
+
+#: inc/theme-info.php:274
+msgid "1 Click Demo Import"
+msgstr ""
+
+#: inc/theme-info.php:279
+msgid "Breadcrumb Display"
+msgstr ""
+
+#: inc/theme-info.php:284
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/theme-info.php:289
+msgid "Top Social Icons"
+msgstr ""
+
+#: inc/theme-info.php:294
+msgid "600+ Google Fonts"
+msgstr ""
+
+#: inc/theme-info.php:299
+msgid "Default Slider"
+msgstr ""
+
+#: inc/theme-info.php:304
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-info.php:309
+msgid "Header Search"
+msgstr ""
+
+#: inc/theme-info.php:314
+msgid "WooCommerce Ready"
+msgstr ""
+
+#: inc/theme-info.php:319
+msgid "Extra Customizer Settings"
+msgstr ""
+
+#: inc/theme-info.php:324
+msgid "Sortable Portfolio"
+msgstr ""
+
+#: inc/theme-info.php:329
+msgid "Extra Premium Demos"
+msgstr ""
+
+#: inc/theme-info.php:334
+msgid "Priority Support"
+msgstr ""
+
+#: inc/theme-info.php:341
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:20
+msgid "Krystal: Blog Section"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:21
+msgid "Adds Blog section"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:78 template-parts/content-gallery.php:30
+#: template-parts/content.php:31
+msgid "Sticky Post"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:90 template-parts/content-gallery.php:42
+#: template-parts/content.php:43
+msgid "Comments"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:105
+#: template-parts/content-gallery.php:109 template-parts/content.php:88
+msgid "READ MORE "
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:145
+msgid "Number of posts:"
+msgstr ""
+
+#: krystal-pro/class-customize.php:77
+msgid "Krystal Pro"
+msgstr ""
+
+#: krystal-pro/class-customize.php:78
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: search.php:35 search.php:76
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-gallery.php:63
+msgid "Gallery Images"
+msgstr ""
+
+#: template-parts/content-gallery.php:84 template-parts/content.php:63
+msgid "Categories:"
+msgstr ""
+
+#: template-parts/content-gallery.php:116 template-parts/content-page.php:24
+#: template-parts/content.php:95
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
